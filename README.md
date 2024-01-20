@@ -1,2 +1,11 @@
 # EDA-Data-Preprocessing-on-Google-App-Store-Rating-Dataset
-Demonstrate proficiency in Python, Pandas, NumPy, and scikit-learn for data cleaning, EDA, and preprocessing. Key skills include transformation, standardization, outlier handling, and categorical encoding for effective machine learning data preparation.
+
+This project involves an in-depth exploratory data analysis (EDA) and data preprocessing on a dataset containing information about 10,000 mobile apps from the Google Play Store. The primary goal is to extract insightful information that can be used for predictive analytics studies in the mobile app domain. The dataset includes attributes such as app name, category, rating, size, installs, type (free or paid), price, content rating, genres, last updated date, current version, and required Android version. The tasks undertaken include importing necessary libraries, checking data samples and statistics, handling duplicates, addressing missing values, transforming and standardizing columns, and encoding categorical variables. Moreover, the project involves creating a new categorical feature, 'Rating_category,' based on the overall user rating, and handling outliers in the 'Reviews' column using a log transformation. Additionally, the project ensures data consistency by treating non-numeric entries in the 'Size' column and converting 'Installs' and 'Price' columns to suitable data types. Redundant columns are dropped, and the dataset is split into training and testing sets for future predictive modeling.
+
+This project demonstrates proficiency in Python programming, data manipulation, and exploratory data analysis using popular libraries such as Pandas, NumPy, and scikit-learn. It showcases skills in data preprocessing techniques, including handling duplicates, missing values, and outliers. The project involves working with real-world data from the mobile app domain, emphasizing industry-relevant terms such as app categories, ratings, installs, pricing models (free vs. paid), and content ratings. The implementation of encoding categorical columns and standardizing data ensures that the dataset is prepared for further machine learning modeling.
+
+### Key Skills:
+Data Analysis | Exploratory Data Analysis (EDA) | Data Preprocessing | Data Cleaning | Feature Engineering | Data Transformation | Data Standardization | Outlier Handling | Categorical Encoding | Machine Learning Data Preparation
+
+### Libraries:
+Pandas | NumPy | matplotlib | seaborn | scikit-learn | stats model 
