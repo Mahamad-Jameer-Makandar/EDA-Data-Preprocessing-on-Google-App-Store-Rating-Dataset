@@ -4,8 +4,6 @@ This project involves an in-depth exploratory data analysis (EDA) and data prepr
 
 This project demonstrates proficiency in Python programming, data manipulation, and exploratory data analysis using popular libraries such as Pandas, NumPy, and scikit-learn. It showcases skills in data preprocessing techniques, including handling duplicates, missing values, and outliers. The project involves working with real-world data from the mobile app domain, emphasizing industry-relevant terms such as app categories, ratings, installs, pricing models (free vs. paid), and content ratings. The implementation of encoding categorical columns and standardizing data ensures that the dataset is prepared for further machine learning modeling.
 
-### Key Skills:
-Data Analysis | Exploratory Data Analysis (EDA) | Data Preprocessing | Data Cleaning | Feature Engineering | Data Transformation | Data Standardization | Outlier Handling | Categorical Encoding | Machine Learning Data Preparation
+### Key Skills: Data Analysis | Exploratory Data Analysis (EDA) | Data Preprocessing | Data Cleaning | Feature Engineering | Data Transformation | Data Standardization | Outlier Handling | Categorical Encoding | Machine Learning Data Preparation
 
-### Libraries:
-Pandas | NumPy | matplotlib | seaborn | scikit-learn | stats model 
+### Libraries: Pandas | NumPy | matplotlib | seaborn | scikit-learn | stats model 
